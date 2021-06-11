@@ -1,0 +1,17 @@
+.button {
+    margin: 10px;
+    padding: 10px;
+    background-color: aquamarine;
+    color: darkslateblue;
+    font-weight: bold;
+    transition: all 0.3s;
+    border: 3px solid darkslateblue;
+    border-radius: 4px;
+    font-family: monospace;
+}
+
+.button:hover {
+    cursor: pointer;
+    background-color: deeppink;
+    padding: 20px;
+}
